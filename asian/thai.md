@@ -5,5 +5,5 @@ Select a restaurant:
 ## Bay Thai http://www.brooklynbaythai.com/
 ## Glow Thai http://glowthai.com/
 ---
-[Back to Asian](..)
+[Back to Asian](../../asian)
 [Start Over](../../home.md)
